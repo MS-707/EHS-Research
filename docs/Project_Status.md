@@ -17,6 +17,7 @@
 - [x] Completed Section I: Policy Purpose and Scope
 - [x] Completed Section II: Regulatory Compliance
 - [x] Completed Section III: Training Requirements
+- [x] Completed Section IV: Operational Procedures
 
 ## In Progress Items
 
@@ -26,7 +27,6 @@
 - [ ] Development of regulatory update monitoring system
 
 ### Policy Development
-- [ ] Section IV: Operational Procedures
 - [ ] Section V: Hazard Assessment and Control
 - [ ] Section VI: Documentation and Recordkeeping
 - [ ] Section VII: Roles and Responsibilities
