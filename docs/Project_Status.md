@@ -28,7 +28,7 @@
 
 ### Policy Development
 - [x] Section V: Hazard Assessment and Control
-- [ ] Section VI: Documentation and Recordkeeping
+- [x] Section VI: Documentation and Recordkeeping
 - [ ] Section VII: Roles and Responsibilities
 - [ ] Section VIII: Policy Enforcement
 
