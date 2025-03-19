@@ -30,7 +30,7 @@
 - [x] Section V: Hazard Assessment and Control
 - [x] Section VI: Documentation and Recordkeeping
 - [x] Section VII: Roles and Responsibilities
-- [ ] Section VIII: Policy Enforcement
+- [x] Section VIII: Policy Enforcement
 
 ## Next Steps
 
