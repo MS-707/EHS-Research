@@ -1,6 +1,10 @@
 # PIT Policy Resources
 
-This directory contains key reference materials for developing Powered Industrial Truck (PIT) policies. The resources included are:
+This directory contains key reference materials for developing Powered Industrial Truck (PIT) policies.
+
+## Resource Directories
+
+- [**OSHA References**](./osha_references/): Collection of official OSHA regulatory documents and implementation guides
 
 ## Federal OSHA Resources
 
@@ -34,3 +38,7 @@ These resources should be used as references when developing policy sections. Al
 - Cross-reference multiple sources
 - Verify information against the most current regulatory text
 - Document which resources informed specific policy sections
+
+## PDF Resources
+
+PDF resources have been organized into subdirectories by category. See the README.md file in each subdirectory for detailed information about each document.
