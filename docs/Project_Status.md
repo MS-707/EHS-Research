@@ -27,7 +27,7 @@
 - [ ] Development of regulatory update monitoring system
 
 ### Policy Development
-- [ ] Section V: Hazard Assessment and Control
+- [x] Section V: Hazard Assessment and Control
 - [ ] Section VI: Documentation and Recordkeeping
 - [ ] Section VII: Roles and Responsibilities
 - [ ] Section VIII: Policy Enforcement
